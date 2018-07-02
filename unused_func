@@ -1,0 +1,30 @@
+;#<FEEDBACK># ARM Linker, 5060422: Last Updated: Sat Jun 30 20:37:29 2018
+;VERSION 0.2
+;FILE common_functions.o
+_ZN16common_functions13linearRescaleEiiiii <= USED 0
+_ZN16common_functions18xorshiftRandomByteEv <= USED 0
+__asm___20_common_functions_cpp_5a5093bc___Z5__RRXj <= USED 0
+__asm___20_common_functions_cpp_5a5093bc___Z7__REV16j <= USED 0
+__asm___20_common_functions_cpp_5a5093bc___Z7__REVSHi <= USED 0
+;FILE main.o
+__asm___8_main_cpp_main___Z5__RRXj <= USED 0
+__asm___8_main_cpp_main___Z7__REV16j <= USED 0
+__asm___8_main_cpp_main___Z7__REVSHi <= USED 0
+;FILE retarget.o
+__aeabi_atexit <= USED 0
+__asm___12_retarget_cpp_3094dbb5___Z5__RRXj <= USED 0
+__asm___12_retarget_cpp_3094dbb5___Z7__REV16j <= USED 0
+__asm___12_retarget_cpp_3094dbb5___Z7__REVSHi <= USED 0
+_sys_command_string <= USED 0
+_sys_exit <= USED 0
+_ttywrch <= USED 0
+assert_failed <= USED 0
+ferror <= USED 0
+fgetc <= USED 0
+fputc <= USED 0
+;FILE startup_stm32f407xx.o
+;FILE system_stm32f4xx.o
+SystemCoreClockUpdate <= USED 0
+__asm___18_system_stm32f4xx_c_5d646a67____REV16 <= USED 0
+__asm___18_system_stm32f4xx_c_5d646a67____REVSH <= USED 0
+__asm___18_system_stm32f4xx_c_5d646a67____RRX <= USED 0
